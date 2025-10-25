@@ -1,6 +1,6 @@
 ### Sourav - Frontend Developer
 
-👋 Hi, I'm Sourav, a passionate Frontend Developer with over 1.5 year of experience in building dynamic and responsive web applications. My expertise lies in **React.js** and **Next.js**, and I'm skilled in using modern styling frameworks like **Tailwind CSS**, **Bootstrap 5**, and **ShadCN**.
+👋 Hi, I'm Sourav, a passionate Frontend Developer, building dynamic and responsive web applications. My expertise lies in **React.js** and **Next.js**, and I'm skilled in using modern styling frameworks like **Tailwind CSS**, **Bootstrap 5**, and **ShadCN**.
 
 🚀 I'm currently working with startup companies, contributing to various projects such as **edtech**, **ecommerce**, **real estate**, and **car selling** platforms. My ability to quickly adapt and implement new features by reading documentation allows me to deliver high-quality solutions in production environments.
 
